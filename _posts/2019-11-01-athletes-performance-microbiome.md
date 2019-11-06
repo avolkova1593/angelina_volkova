@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meta-omics analysis of elite athletes identified a performance-enhancing microbe that functions via lactate metabolism.
-subtitle: Scheiman et al. Nature. 05/10/2019
+subtitle: Scheiman et al. Nature Medicine. 05/10/2019
 tags: [physical performance]
 comments: true
 ---
